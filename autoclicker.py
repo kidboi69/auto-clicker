@@ -16,9 +16,9 @@ print('''
 Credits to: https://github.com/xtekky
 
 Available websites:
-- https://kohiclicktest.org/
-- https://cpstest.org/kohi-click-test.php
-- https://clickspeedtest.com/kohi-click-test.html
+- [1] -- https://kohiclicktest.org/
+- [2] -- https://cpstest.org/kohi-click-test.php
+- [3] -- https://clickspeedtest.com/kohi-click-test.html
 ''')
 
 mouse = Controller()
