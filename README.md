@@ -10,4 +10,4 @@
 
 ## install chromedriver
 - go to https://chromedriver.chromium.org/downloads and install the right version
-- replace the chromedriver path in the code line 21
+- replace the chromedriver path in the code line 9
